@@ -5,8 +5,8 @@ import IndecisionView from './views/IndecisionView.vue';
 <template>
   <IndecisionView />
   <div>
-    <h1>Hola</h1>
-    <h2>Hola</h2>
+    <h1>Hola 2</h1>
+    <h2>Hola 2</h2>
   </div>
 </template>
 
